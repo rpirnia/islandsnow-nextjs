@@ -8,11 +8,11 @@ import FooterMenu from '@/components/FooterMenu';
 
 const Home = () => (
   <main>
-      <TopMenu />
-      <IslandSnowLogo />
-      <MiddleMenu />
-      <FullWidthImage />
-      <FooterMenu />
+    <TopMenu />
+    <IslandSnowLogo />
+    <MiddleMenu />
+    <FullWidthImage />
+    <FooterMenu />
   </main>
 );
 
